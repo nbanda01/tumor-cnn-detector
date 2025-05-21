@@ -30,6 +30,9 @@ A Convolutional Neural Network (CNN) based deep learning project to detect tumor
 - **Source:** [BUSI Dataset](https://scholar.cu.edu.eg/?q=afahmy/pages/dataset)
 - **Classes:** `benign`, `malignant`, `normal`
 - Dataset not included in this repo due to size. Please download manually and place in the `cnn/dataset/` folder.
+## results 
+![image](https://github.com/user-attachments/assets/1765df3c-9bc6-49fe-9e4d-cf42e9612d71)
+
 
 ---
 
