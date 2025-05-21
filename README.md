@@ -32,6 +32,7 @@ A Convolutional Neural Network (CNN) based deep learning project to detect tumor
 - Dataset not included in this repo due to size. Please download manually and place in the `cnn/dataset/` folder.
 ## results 
 ![image](https://github.com/user-attachments/assets/1765df3c-9bc6-49fe-9e4d-cf42e9612d71)
+![image](https://github.com/user-attachments/assets/d568e793-e6fe-498c-8ea6-2c2a24660fd5)
 
 
 ---
