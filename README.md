@@ -8,7 +8,7 @@ A Convolutional Neural Network (CNN) based deep learning project to detect tumor
 - Image classification with CNN
 - Binary classification: Tumor vs. No Tumor
 - Trained on [BUSI Dataset](https://scholar.cu.edu.eg/?q=afahmy/pages/dataset)
-- Achieved ~XX% test accuracy (replace with your result)
+- Achieved ~XX% test accuracy (88%)
 - Built and tested on Google Colab
 
 ---
